@@ -27,6 +27,8 @@ class _AlKuranPageState extends State<AlKuranPage> {
         MyText.kuran,
         MyColor.whiteColor,
         Row(
+
+        //This i
           children: [
             Icon(Icons.filter_list, size: 30),
             Container(
@@ -38,7 +40,7 @@ class _AlKuranPageState extends State<AlKuranPage> {
               ),
               child: Image(
                 image: AssetImage(MyImage.arrowIcon),
-                height: 20,
+                height: 21,
                 width: 20,
                 color: MyColor.whiteColor,
               ),
