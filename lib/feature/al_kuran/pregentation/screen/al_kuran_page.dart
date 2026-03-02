@@ -28,7 +28,6 @@ class _AlKuranPageState extends State<AlKuranPage> {
         MyColor.whiteColor,
         Row(
 
-        //This i
           children: [
             Icon(Icons.filter_list, size: 30),
             Container(
