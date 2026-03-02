@@ -40,7 +40,7 @@ class _AlKuranPageState extends State<AlKuranPage> {
               ),
               child: Image(
                 image: AssetImage(MyImage.arrowIcon),
-                height: 21,
+                height: 20,
                 width: 20,
                 color: MyColor.whiteColor,
               ),
